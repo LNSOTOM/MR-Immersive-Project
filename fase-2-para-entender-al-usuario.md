@@ -240,14 +240,3 @@ Según **Tristan Ferne** la industria de noticias ha reconocido un problema de a
 
 **\[ Puedes leer el artículo** [**aquí**](https://medium.com/bbc-news-labs/beyond-800-words-new-digital-story-formats-for-news-ab9b2a2d0e0d)**. \]**
 
-  
-  
-****
-
-  
-
-
-
-
-###  
-
