@@ -8,8 +8,9 @@
 * [5. PROCESO DE IDEACIÓN](2.-ideacion.md)
 * [6. INSIGHTS](2.-estrategia-e-insights.md)
 * [7. PROPUESTA DE VALOR & ESTRATEGIA](4.-propuesta-de-valor.md)
+* [8. GUIÓN Y NARRATIVA](3.-guion-y-narrativa.md)
+* [9. ARQUITECTURA INFORMACIÓN & FLOWCHART](9.-arquitectura-informacion-and-flowchart.md)
 * [3.PROCESO DEL PROYECTO](proceso-del-proyecto/README.md)
-  * [5. GUIÓN Y NARRATIVA](proceso-del-proyecto/3.-guion-y-narrativa.md)
   * [6. ESCENARIOS](proceso-del-proyecto/4.-escenarios.md)
   * [7. DISEÑO DE INTERFAZ E INTERACCIÓN](proceso-del-proyecto/5.-diseno-de-interfaz-e-interaccion.md)
   * [8. GENERACIÓN DE ASSETS](proceso-del-proyecto/6.-generacion-de-assets.md)
@@ -17,5 +18,4 @@
 * [MONETIZACIÓN EN VR](monetizacion-en-vr.md)
 * [BRANDING](branding.md)
 * [WEB VR Y AR](web-vr-y-ar.md)
-* [EL PROCESO](el-proceso.md)
 
