@@ -1,6 +1,6 @@
 # Table of contents
 
-* [PROYECTO PRESS VR](README.md)
+* [DE LA PRENSA DIGITAL AL EXPERIENCIA VIRTUAL](README.md)
 * [TEAM](team-1.md)
 * [GESTIÓN DEL PROYECTO](team/README.md)
   * [ORGANIZACIÓN DEL EQUIPO](team/organizacion-del-equipo.md)
