@@ -1,19 +1,34 @@
-# 1. RESEARCH
+---
+description: >-
+  La digitalización ha cambiado los mercados de consumo obligando a las empresas
+  a cambiar sus estrategias de venta e incluso a crear nuevos servicios o
+  productos adaptados al usuario de hoy.
+---
 
-## 1. PARA ENTENDER AL USUARIO
+# 4. RESEARCH
 
-Hacemos una investigación para conocer a nuestro target. ¿Cómo lo hacemos?
+### 4.1 Analizando Press VR \| El primer problema
 
-### 1.1. PROTO-PERSONAS
+![](.gitbook/assets/research1_pressvr.jpeg)
+
+### 4.2 Investigando para obtener Insights
+
+![](.gitbook/assets/research2_pressvr.jpeg)
+
+### 1.1. CREANDO PERSONAS \| PROTO-PERSONAS
 
 Creamos una hipótesis de lo que podrían ser nuestros usuarios potenciales.
 
-Establecimos 2 perfiles:
+Establecimos **2 perfiles:**
 
-1. Un youtuber tipo Rubius
-2. Un lector de 55 años
+1. **Un youtuber tipo Rubius**
+2. **Un lector de 55 años**
 
-![](../.gitbook/assets/proto-personajes.png)
+![](.gitbook/assets/proto-personajes.png)
+
+![](.gitbook/assets/protopersonas_pressvr.jpeg)
+
+Al principio pensamos que el creador de contenidos podría ser usuario para nuestra App, pero fue descartado tras los resultados del cuestionario.
 
 A continuación la investigación cuantitativa nos ayudará a definir mejor nuestras Personas.
 
@@ -113,7 +128,7 @@ Las personas o personajes se determinan una vez hecha la investigación cuantita
 
 Tenemos así **dos personas modelo**:
 
-![](../.gitbook/assets/personas_vrpress.png)
+![](.gitbook/assets/personas_vrpress.png)
 
 #### PERSONA 1-Usuarios 35-44 años
 
@@ -131,7 +146,7 @@ Analizamos la situación de la industria periodística.
 
 #### 2.1.1. DESAFÍOS DE LA INMERSIÓN DEL PERIODISMO
 
-![Frontiers in Digital Humanities](../.gitbook/assets/frontiers_pressvr.png)
+![Frontiers in Digital Humanities](.gitbook/assets/frontiers_pressvr.png)
 
 **Insights del artículo:**
 
@@ -147,7 +162,7 @@ Analizamos la situación de la industria periodística.
 
 #### 2.1.2. REALIDAD VIRTUAL Y PERIODISMO
 
-![Paper by Taylor Owen, Fergus Pitt, Raney Aronson-Rath &amp; James Milward](../.gitbook/assets/journalismvr_pressvr.png)
+![Paper by Taylor Owen, Fergus Pitt, Raney Aronson-Rath &amp; James Milward](.gitbook/assets/journalismvr_pressvr.png)
 
 **Insights del paper, tiene 4 partes hechas por varios profesionales del mundo del digital journalism :**
 
@@ -190,7 +205,7 @@ Las Oculus GO nos permitirán tener una mayor inmersión y de no depender de dis
 
 Hacemos un análisis del soporte  con el que diseñaremos las experiencias VR:
 
-![](../.gitbook/assets/03_dafo_vrpress.png)
+![](.gitbook/assets/03_dafo_vrpress.png)
 
 ### 2.4. MAPA DE TENDENCIAS
 
@@ -200,7 +215,7 @@ Según **Tristan Ferne** la industria de noticias ha reconocido un problema de a
 
 > "Developing and popularising useful and attractive new formats could make news stories more recognisable when aggregated and consumed on other platforms, and provide more compelling reasons for people to visit the source sites and apps."
 
-![A visualisation of digital news formats by Tristan Ferne from BBC](../.gitbook/assets/formatnews.png)
+![A visualisation of digital news formats by Tristan Ferne from BBC](.gitbook/assets/formatnews.png)
 
 #### **NUEVOS FORMATOS DE HISTORIAS DIGITALES**
 
