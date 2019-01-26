@@ -1,10 +1,9 @@
 # Table of contents
 
-* [DE LA PRENSA DIGITAL A LA EXPERIENCIA VIRTUAL](README.md)
+* [Proyecto Press VR \| Cómo construir un UX Design Immersive](README.md)
 * [TEAM](team-1.md)
-* [GESTIÓN DEL PROYECTO](team/README.md)
-  * [ORGANIZACIÓN DEL EQUIPO](team/organizacion-del-equipo.md)
-  * [HERRAMIENTAS UTILIZADAS](team/herramientas-utilizadas.md)
+* [HERRAMIENTAS UTILIZADAS](herramientas-utilizadas.md)
+* [GESTIÓN DEL PROYECTO](team.md)
 * [INTRODUCCIÓN](introduccion/README.md)
   * [OVERVIEW](introduccion/1.-overview.md)
   * [BRIEFING](introduccion/2.-briefing.md)
@@ -22,4 +21,5 @@
 * [MONETIZACIÓN EN VR](monetizacion-en-vr.md)
 * [BRANDING](branding.md)
 * [WEB VR Y AR](web-vr-y-ar.md)
+* [EL PROCESO](el-proceso.md)
 

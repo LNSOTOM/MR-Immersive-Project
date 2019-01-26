@@ -1,8 +1,6 @@
 # HERRAMIENTAS UTILIZADAS
 
-
-
-**1.1Herramienta de Gestión de Proyectos y Archivos**
+### **1.1Herramienta de Gestión de Proyectos y Archivos**
 
 * **Trello**: aquí organizamos nuestro proyecto por : TO DO, DOING y DONE tareas. Y teníamos otras columnas para aprender, inspirarnos y dejarnos construir el provecto VR.
 
@@ -20,7 +18,7 @@
 
 ![](https://cdn-images-1.medium.com/max/1760/1*GfUoK7r4i_wgkauUwF-QjA.png)
 
-**1.2 Comunicación del equipo**
+### **1.2 Comunicación del equipo**
 
 * [**Appear.in**](https://appear.in/): utilizamos esta conversación de video casi cada semana para distribuir el trabajo, discutir documentos online, idear y seguir progresando en el proyecto.
 * **Whatsapp**: lo utilizamos al final, para obtener respuestas rápidos y establecer una cercanía.w
@@ -29,7 +27,7 @@
 
 ![](https://cdn-images-1.medium.com/max/1760/1*MO8X7wVwdZ98Pp1nV8TB_g.jpeg)
 
-**1.3 Herramienta de Brainstorming & Ideación**
+### **1.3 Herramienta de Brainstorming & Ideación**
 
 * [**Milanote**](https://app.milanote.com/1GqX671P18117M): la usamos para inspirarnos y construir nuestros assets en Unity.
 
@@ -39,21 +37,21 @@
 
 ![](https://cdn-images-1.medium.com/max/1760/1*BCgdFyIkVWvsnbXLEWI2cA.png)
 
-**1.4 Herramientas de Flujos & Mapa del sitio**
+### **1.4 Herramientas de Flujos & Mapa del sitio**
 
 * [**Mindnode**](https://mindnode.com/): lo usamos para la Arquitectura de Información \(AI\) de la App Press VR.
 
-![](../.gitbook/assets/mapa-mental.png)
+![](.gitbook/assets/mapa-mental.png)
 
 * [**Whimsical**](https://whimsical.co/7YEqhBLCwmfipvifheRpma): esta fue otra herramienta para la Arquitectura de Información \(AI\) de la App Press VR.
 
-![ArquitecturaInformaci&#xF3;n+Flowchart\_PressVR](../.gitbook/assets/arquitecturainformacion+flowchart_pressvr.png)
+![ArquitecturaInformaci&#xF3;n+Flowchart\_PressVR](.gitbook/assets/arquitecturainformacion+flowchart_pressvr.png)
 
 * [**Sketch cloud**](https://sketch.cloud/s/DdGO2): lo usamos para construir el storytelling,  establecer las interacciones, crear onboarding y presentar algunas ideas.
 
 ![](https://cdn-images-1.medium.com/max/1760/1*dYk5f_CA6zmL198BdbJ7rw.png)
 
-**1.5 Herramientas UI Design** 
+### **1.5 Herramientas UI Design** 
 
 * [**Sketch**](https://www.sketchapp.com/): la usamos para diseñar la interfaz del usuario de la app \(paneles 2D\).
 
@@ -69,7 +67,7 @@
 
 {% embed url="https://drive.google.com/file/d/12l81TcG6YeAzhm09bUmLwsPBA03KlndK/view?usp=sharing" caption="Concept Art-Laura Morales" %}
 
-**1.6 Herramientas de Prototipado**
+### **1.6 Herramientas de Prototipado**
 
 * [**CoSpaces Edu**](https://cospaces.io/edu/): esta es una herramienta genial para crera prototipos antes de entrar en Unity- Fue una buena herramienta para sentir la experiencia en VR y AR.
 
@@ -89,13 +87,13 @@
 
 ![](https://cdn-images-1.medium.com/max/1760/1*BsYOVkiKyhIkTEFhFZGgQQ.png)
 
-**1.7 Herramientas de Testing**
+### **1.7 Herramientas de Testing**
 
 * [**Google Form**](https://docs.google.com/forms/d/1dJ5MyU9ugz_B5W7sK062PhrBVtn-D3brBT9jgHRBFiQ/prefill): lo usamos para hacer un cuestionario a usuarios obteniendo así 135 respuestas.
 
 ![](https://cdn-images-1.medium.com/max/1760/1*EWiiQdQ9Dn_AKGtI6yOLJA.png)
 
-**1.8 Herramienta de Video & Sonido**
+### **1.8 Herramienta de Video & Sonido**
 
 * [**Quicktime**](https://support.apple.com/kb/DL837?locale=es_ES): fue usado para grabar lo que hicimos en nuestro portátil \(laptop\) y mostrar nuestro flujos de trabajo.
 * [**Vimeo**](https://vimeo.com/user73687920): fue usado para mostrar nuestros prototipos.

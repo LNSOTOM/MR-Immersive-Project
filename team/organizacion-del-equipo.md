@@ -1,4 +1,0 @@
-# ORGANIZACIÓN DEL EQUIPO
-
-
-
