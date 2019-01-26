@@ -5,7 +5,7 @@ description: >-
   productos adaptados al usuario de hoy.
 ---
 
-# 4. RESEARCH
+# 4.RESEARCH
 
 ## 4.1 Analizando Press VR \| El primer problema
 
