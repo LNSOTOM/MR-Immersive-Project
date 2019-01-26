@@ -7,7 +7,7 @@ description: >-
 
 # 4. RESEARCH
 
-### 4.1 Analizando Press VR \| El primer problema
+## 4.1 Analizando Press VR \| El primer problema
 
 ![](.gitbook/assets/research1_pressvr.jpeg)
 
@@ -15,7 +15,9 @@ description: >-
 
 ![](.gitbook/assets/research2_pressvr.jpeg)
 
-### 1.1. CREANDO PERSONAS \| PROTO-PERSONAS
+## PARA ENTENDER AL USUARIO
+
+### 1. Creando Personas \| Proto-Personas
 
 Creamos una hipótesis de lo que podrían ser nuestros usuarios potenciales.
 
@@ -32,13 +34,15 @@ Al principio pensamos que el creador de contenidos podría ser usuario para nues
 
 A continuación la investigación cuantitativa nos ayudará a definir mejor nuestras Personas.
 
-### 1.2. INVESTIGACIÓN CUANTITATIVA
+### 2. Resultados de la Encuesta
 
 #### **CUESTIONARIO DE LA ENCUESTA**
 
 El trabajo de campo se realizó durante 7 días consecutivos, desde el 19 al 25 de Noviembre de 2018, a través de un cuestionario en Google form.
 
 El cuestionario constó de un máximo de 12 preguntas y una sola pregunta fue abierta.
+
+![](.gitbook/assets/encuestaresultados_pressvr.jpeg)
 
 #### PRINCIPALES CONCLUSIONES DE LA ENCUESTA
 
@@ -122,7 +126,7 @@ Además el 43,2% de los encuestados está comprendido entre 35-44 años, seguido
 
 > **Foro para discutir temas de interés**
 
-### **1.3. VALIDACIÓN-PERSONAS**
+### **3. Validando Personas \| Después de la Investigación de Usuarios**
 
 Las personas o personajes se determinan una vez hecha la investigación cuantitativa y cualitativa tras profundizar en el target.
 
@@ -134,17 +138,19 @@ Tenemos así **dos personas modelo**:
 
 Hemos validado esta persona 1 tras los datos cuantitativos y cualitativos \(pregunta abierta\) obtenidos en la encuesta.
 
+![](.gitbook/assets/personas_pressvr.jpeg)
+
 #### PERSONA 2-Periodistas, redactores y directores
 
 Hemos validado esta persona 2 tras el feedback del cuestionario hecho y las necesidades del mercado que hemos identificado a continuación \(benchmark, mapa de tendencias\).
 
-## 2. PARA ENTENDER EL NEGOCIO
+## PARA ENTENDER EL NEGOCIO
 
-### 2.1. DIAGNÓSTICO DE LA INDUSTRIA
+### 1. DIAGNÓSTICO DE LA INDUSTRIA
 
 Analizamos la situación de la industria periodística.
 
-#### 2.1.1. DESAFÍOS DE LA INMERSIÓN DEL PERIODISMO
+#### **1.1 DESAFÍOS DE LA INMERSIÓN DEL PERIODISMO**
 
 ![Frontiers in Digital Humanities](.gitbook/assets/frontiers_pressvr.png)
 
@@ -160,7 +166,7 @@ Analizamos la situación de la industria periodística.
 
 **\[ Puedes leer el artículo** [**aquí**](https://www.frontiersin.org/articles/10.3389/fdigh.2017.00010/full)**. \]**
 
-#### 2.1.2. REALIDAD VIRTUAL Y PERIODISMO
+#### **1.2 REALIDAD VIRTUAL Y PERIODISMO**
 
 ![Paper by Taylor Owen, Fergus Pitt, Raney Aronson-Rath &amp; James Milward](.gitbook/assets/journalismvr_pressvr.png)
 
@@ -187,17 +193,17 @@ Hay 2 posibles planteamientos: inmersión y la presencia \(la percepción de est
 
 **\[ Puedes leer el Paper completo** [**aquí**](https://towcenter.gitbooks.io/virtual-reality-journalism/content/)**. \]**
 
-### 2.2. BENCHMARK
+### 2. BENCHMARK
 
 Analizamos 5 aplicaciones en vr de noticias y lectura.
 
 {% embed url="https://docs.google.com/presentation/d/1U8eUoE3jOM8au7TOLwGKSL39\_ylngNJnvnBkdU3r2O4/edit\#slide=id.g44704d2b20\_0\_0" %}
 
+![](.gitbook/assets/benchmark_pressvr.jpeg)
+
 Una vez mapeada la competencia con sus pros y contras, seguimos con la elección de la plataforma para diseñar las experiencias en VR.
 
-### 2.3. DAFO
-
-#### ¿ POR QUÉ HEMOS ELEGIDO LAS OCULUS GO ?
+### 3. ¿ POR QUÉ HEMOS ELEGIDO LAS OCULUS GO ?
 
 Tras la encuesta hecha, estas son las segundas gafas más usadas. Además como nuestra experiencia trata de leer y ver vídeos necesitaremos una resolución más alta de la que proporciona las Samsung Gear VR. 
 
@@ -207,7 +213,7 @@ Hacemos un análisis del soporte  con el que diseñaremos las experiencias VR:
 
 ![](.gitbook/assets/03_dafo_vrpress.png)
 
-### 2.4. MAPA DE TENDENCIAS
+### 4. MAPA DE TENDENCIAS
 
 Esta herramienta nos permite ver las nuevas líneas de negocio y formatos que se están desarrollando en el periodismo, para así saber las previsión de las tecnologías y sector.
 
