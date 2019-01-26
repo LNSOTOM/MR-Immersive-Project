@@ -4,7 +4,7 @@ description: >-
   la realidad virtual y realidad aumentada.
 ---
 
-# DE LA PRENSA DIGITAL AL EXPERIENCIA VIRTUAL
+# DE LA PRENSA DIGITAL A LA EXPERIENCIA VIRTUAL
 
 \[Proyecto final del curso Virtual Reality Design Immersive en UXER SCHOOL y VIRTUAL VOYAGERS de una duración de 64 horas y 8 semanas de ejecución de proyecto\]
 
