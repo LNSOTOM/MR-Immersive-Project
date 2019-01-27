@@ -17,6 +17,5 @@
 * [14. PROTOTIPO EN UNITY](7.-creacion-de-prototipos.md)
 * [15.PRUEBAS & MONITORIZACIÓN](15.pruebas-and-monototizacion.md)
 * [16.WEB VR & PROTOTIPO AR](web-vr-y-ar.md)
-* [MONETIZACIÓN EN VR](monetizacion-en-vr.md)
-* [BRANDING](branding.md)
+* [17.AGRADECIMIENTOS](17.agradecimientos.md)
 
