@@ -20,7 +20,7 @@
 
 1. Si tienes **Android** necesitarás descargarte el soporte [**ARCore de Google** ](https://developers.google.com/ar/)que te permitirá disfrutar de la experiencia de realidad aumentada creada. 
 2. Y si tienes **iOS** necesitarás [**ARKit de Apple**.](https://developer.apple.com/arkit/)
-3. Además de la app CoSpaces
+3. Además de la [**app CoSpaces**](https://cospaces.io/edu/)**.**
 
 * **Realidad Virtual:** también si tienes las gafas virtuales Samsung Gear o Oculus Go, podrás disfrutar de esta experiencia virtualmente.
 
