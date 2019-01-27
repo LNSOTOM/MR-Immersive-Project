@@ -2,16 +2,16 @@
 
 ![](.gitbook/assets/progressiveenhacementproject.png)
 
-## IDEAS PARA WEB VR
+> “WebVR is an open specification that makes it possible to experience VR in your browser. The goal is to make it easier for everyone to get into VR experiences, no matter what device you have.”-by [webvr.info](https://webvr.info/)
 
-**1.**[**Concept WebVR**](https://docs.google.com/presentation/d/1SroKnbSy1HNb4Uj_wjoJqINAbbt8sr6SD61O3L1qeI8/edit#slide=id.g460abb88dc_0_74)
+{% embed url="https://docs.google.com/presentation/d/1SroKnbSy1HNb4Uj\_wjoJqINAbbt8sr6SD61O3L1qeI8/edit?usp=sharing" %}
 
-**2.**Crear una adaptación AR del consumo de las revistas \(sin la habitación que no tiene tanto sentido, ni paredes ni sillón ni nada de esto que ya tenemos en la realidad\) el quiosko y abrir la revista \( a modo enganche porque la lectura no sería la mejor\) en tu propio salón pero podríamos usar el teletransporte para ir a otros portales y ver vídeos 36o a través de la magic window.
+En realidad, Oculus ha estado trabajando en **Progressive Enhancement.**
 
-3.Crear píldoras con algunos de nuestros elementos más característicos para subirlas a redes sociales.
+**La aplicación de escritorio Oculus** es una app personalizada que te permite administrar tu experiencia de realidad virtual lejos de tu PC. Además, la app móvil te ayuda a: descubrir eventos, conectarte con amigos, navegar por la tienda e instalar juegos de realidad virtual en tu PC antes de llegar a casa. Puedes ver aquí [**Oculus Connect 5 \| Fundamental.**](https://www.youtube.com/watch?v=o7OpS7pZ5ok&feature=youtu.be)\*\*\*\*
 
-4.Intentar mostrar esto en un gif, ilustración o algo que cuente como se adapta nuestra experiencia a distintos dispositivos más restrictivos o menos…
+![](.gitbook/assets/oculusconnect5_pressvr.png)
 
-5. Usar Aframe para meter el fondo rollo national geografic + 2D de las publicaciones + 1 video 360  
+  
 
 
