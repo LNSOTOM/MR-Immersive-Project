@@ -15,7 +15,7 @@
 * [12. DISEÑO DE INTERACCIÓN & INTERFAZ](5.-diseno-de-interfaz-e-interaccion.md)
 * [13. GENERACIÓN DE ASSETS](6.-generacion-de-assets.md)
 * [14. PROTOTIPO EN UNITY](7.-creacion-de-prototipos.md)
-* [15.PRUEBAS & MONOTOTIZACIÓN](15.pruebas-and-monototizacion.md)
+* [15.PRUEBAS & MONITORIZACIÓN](15.pruebas-and-monototizacion.md)
 * [16.WEB VR](web-vr-y-ar.md)
 * [6. ESCENARIOS](4.-escenarios.md)
 * [MONETIZACIÓN EN VR](monetizacion-en-vr.md)
