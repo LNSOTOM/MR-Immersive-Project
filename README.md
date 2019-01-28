@@ -17,5 +17,5 @@ He tenido el placer de compartir este proyecto con : [Almudena López](https://w
 
 **\[ You can read this PROJECT as an EBOOK \(responsive web design\)\|** [**Use this link**](https://www.sotomayorstudio.com/stories-chapters/press-vr-project-how-to-build-an-ux-design-immersive) **\]**
 
-**\[ You can READ this article in ENGLISH\|** [**Use this link**](https://medium.com/@sotomayorstudio/press-vr-project-how-to-build-an-ux-of-design-immersive-e61e7adcf828) **\]**
+**\[ You can READ this project on MEDIUM \(English version\)\|** [**Use this link**](https://medium.com/@sotomayorstudio/press-vr-project-how-to-build-an-ux-of-design-immersive-e61e7adcf828) **\]**
 
