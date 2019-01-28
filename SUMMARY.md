@@ -9,7 +9,7 @@
 * [6.INSIGHTS](2.-estrategia-e-insights.md)
 * [7.PROPUESTA DE VALOR & ESTRATEGIA](4.-propuesta-de-valor.md)
 * [8.GUIÓN Y NARRATIVA](3.-guion-y-narrativa.md)
-* [9.ARQUITECTURA INFORMACIÓN & FLOWCHART](9.-arquitectura-informacion-and-flowchart.md)
+* [9.ARQUITECTURA INFORMACIÓN & FLUJOS](9.-arquitectura-informacion-and-flowchart.md)
 * [10.PERSONAJES](10.personajes.md)
 * [11.CONCEPT ART](11.concept-art.md)
 * [12. DISEÑO DE INTERACCIÓN & INTERFAZ](5.-diseno-de-interfaz-e-interaccion.md)
