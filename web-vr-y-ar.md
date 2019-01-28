@@ -4,11 +4,11 @@
 
 > “WebVR is an open specification that makes it possible to experience VR in your browser. The goal is to make it easier for everyone to get into VR experiences, no matter what device you have.”-by [webvr.info](https://webvr.info/)
 
-### 16.1 Ideas para WebVR
+## 16.1 Ideas para WebVR
 
 {% embed url="https://docs.google.com/presentation/d/1SroKnbSy1HNb4Uj\_wjoJqINAbbt8sr6SD61O3L1qeI8/edit?usp=sharing" %}
 
-### 16.2 WebVR \| Prototipo en CoSpaces Edu
+## 16.2 WebVR \| Prototipo en CoSpaces Edu
 
 ![](.gitbook/assets/onboarding_presentacionsala_externo.png)
 
@@ -26,7 +26,16 @@
 
 {% embed url="https://edu.cospaces.io/Universe/Space/7BCLTXf8l3AFcQWgiMZfGa" %}
 
-### 16.3 Oculus \| Progressive Enhancement
+## 16.3 WebVR \| Prototipo en Unity
+
+* **Visualización en VR:** necesitas unas cardboard viewer \(ejemplo: Google Cardboard\)
+* **Visualización en el browser del desktop o móvil:** podrás experimentar en 360º la escena \(una experiencia parecida a la realidad virtual pero sin poder ver en 3D o interactuar como en VR\)
+
+{% embed url="https://vimeo.com/306089338" caption="Press VR \| Primera Escena \(visualiza en 360º\)" %}
+
+{% embed url="https://vimeo.com/305994963" caption="Press VR \| Segunda Escena \(National Geographic\) + Tercera Escena \(Hologram\)" %}
+
+## 16.4 Oculus \| Progressive Enhancement
 
 En realidad, Oculus ha estado trabajando en **Progressive Enhancement.**
 
