@@ -11,7 +11,7 @@ description: >-
 
 ![](.gitbook/assets/research1_pressvr.jpeg)
 
-### 4.2 Investigando para obtener Insights
+## 4.2 Investigando para obtener Insights
 
 ![](.gitbook/assets/research2_pressvr.jpeg)
 
